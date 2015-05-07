@@ -1,0 +1,3 @@
+[submodule "aws-auto"]
+	path = aws-auto
+	url = git@bitbucket.org:technicalrockstars/aws-auto.git

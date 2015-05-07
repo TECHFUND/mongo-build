@@ -1,0 +1,7 @@
+{
+    "ami" : "ami-bddaa2bc",
+    "security-groups" : ["Master DB Server(milkcocoa)"],
+    "instance-type" : "m1.small",
+    "tags" : { "Name" : "mongodb from auto",
+              "Service" : "build" }
+}
